@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 82b5f41383dbab149a9b9f425b78b4fa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 360280
+  packageName: Cinema Hall Theatre 3d Environment
+  packageVersion: 1.0
+  assetPath: Assets/FoundryStudios/CinemaHallPack/Scenes/CinemaHallLighting.lighting
+  uploadId: 860812

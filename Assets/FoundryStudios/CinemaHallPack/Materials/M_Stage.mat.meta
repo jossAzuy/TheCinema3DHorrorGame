@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8315c8d4830fe8d49ba6108c1b8e110b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 360280
+  packageName: Cinema Hall Theatre 3d Environment
+  packageVersion: 1.0
+  assetPath: Assets/FoundryStudios/CinemaHallPack/Materials/M_Stage.mat
+  uploadId: 860812
