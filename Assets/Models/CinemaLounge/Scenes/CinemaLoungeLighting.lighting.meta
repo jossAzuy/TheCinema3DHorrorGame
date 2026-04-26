@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8479414b65d4a4a48b7f15ff9dec6c03
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 361406
+  packageName: Cinema Lounge Theatre 3d Environment
+  packageVersion: 1.0
+  assetPath: Assets/FoundryStudios/CinemaLounge/Scenes/CinemaLoungeLighting.lighting
+  uploadId: 862020
