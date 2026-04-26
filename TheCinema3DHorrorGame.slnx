@@ -1,3 +1,15 @@
 ﻿<Solution>
+  <Project Path="BeautifyEditor.csproj" />
+  <Project Path="FronkonGames.Retro.OldFilms.csproj" />
+  <Project Path="Unity.RenderPipelines.Universal.Runtime.csproj" />
+  <Project Path="HighlightPlus.Runtime.csproj" />
+  <Project Path="HighlightPlus.Demo.csproj" />
   <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="FronkonGames.Retro.OldFilms.Editor.csproj" />
+  <Project Path="FronkonGames.Retro.VintageFilters.Editor.csproj" />
+  <Project Path="FronkonGames.Retro.VintageFilters.csproj" />
+  <Project Path="HighlightPlus.Editor.csproj" />
+  <Project Path="RealStep.Editor.csproj" />
+  <Project Path="RealStep.Demo.csproj" />
+  <Project Path="RealStep.Runtime.csproj" />
 </Solution>

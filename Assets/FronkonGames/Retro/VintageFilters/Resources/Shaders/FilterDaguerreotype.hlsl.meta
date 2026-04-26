@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8a3f96d7127252446ba2696e897c5c90
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242600
+  packageName: 'Retro: Vintage Filters'
+  packageVersion: 3.0.1
+  assetPath: Assets/FronkonGames/Retro/VintageFilters/Resources/Shaders/FilterDaguerreotype.hlsl
+  uploadId: 873802

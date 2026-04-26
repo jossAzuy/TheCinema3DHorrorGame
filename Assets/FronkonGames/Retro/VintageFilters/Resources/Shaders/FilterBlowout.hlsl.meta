@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0b563d936cabdff4dbad1b5d34db5ee5
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242600
+  packageName: 'Retro: Vintage Filters'
+  packageVersion: 3.0.1
+  assetPath: Assets/FronkonGames/Retro/VintageFilters/Resources/Shaders/FilterBlowout.hlsl
+  uploadId: 873802

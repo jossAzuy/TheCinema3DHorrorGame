@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e82f38840d1dd364f8900712e3876221
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242600
+  packageName: 'Retro: Vintage Filters'
+  packageVersion: 3.0.1
+  assetPath: Assets/FronkonGames/Retro/VintageFilters/Resources/Shaders/FilterInfrared.hlsl
+  uploadId: 873802

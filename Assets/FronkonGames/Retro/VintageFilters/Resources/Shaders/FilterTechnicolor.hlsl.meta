@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f8c452bf617dec643ad23ff52ed14ed6
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242600
+  packageName: 'Retro: Vintage Filters'
+  packageVersion: 3.0.1
+  assetPath: Assets/FronkonGames/Retro/VintageFilters/Resources/Shaders/FilterTechnicolor.hlsl
+  uploadId: 873802

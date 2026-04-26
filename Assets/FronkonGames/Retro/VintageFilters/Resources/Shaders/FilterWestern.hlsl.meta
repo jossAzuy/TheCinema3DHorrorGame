@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1a158170a1dc4444e80bfaf54f6318ac
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242600
+  packageName: 'Retro: Vintage Filters'
+  packageVersion: 3.0.1
+  assetPath: Assets/FronkonGames/Retro/VintageFilters/Resources/Shaders/FilterWestern.hlsl
+  uploadId: 873802

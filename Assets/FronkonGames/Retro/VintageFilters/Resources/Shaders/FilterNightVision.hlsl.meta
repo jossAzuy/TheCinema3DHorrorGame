@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4aac1542a3127754f86b61dbd5f93c07
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242600
+  packageName: 'Retro: Vintage Filters'
+  packageVersion: 3.0.1
+  assetPath: Assets/FronkonGames/Retro/VintageFilters/Resources/Shaders/FilterNightVision.hlsl
+  uploadId: 873802

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5d9138b0fe65c9d489398440bdb382fd
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242600
+  packageName: 'Retro: Vintage Filters'
+  packageVersion: 3.0.1
+  assetPath: Assets/FronkonGames/Retro/VintageFilters/Resources/Shaders/FilterKodachrome.hlsl
+  uploadId: 873802
