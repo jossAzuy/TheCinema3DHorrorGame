@@ -26,7 +26,8 @@ public class Door : MonoBehaviour
         }
 
         rotacionCerrada = transform.rotation;
-        rotacionAbierta = rotacionCerrada * Quaternion.Euler(ejeRotacion * grados);
+        // rotacionAbierta = rotacionCerrada * Quaternion.Euler(ejeRotacion * grados);
+        rotacionAbierta = rotacionCerrada * Quaternion.AngleAxis(grados, ejeRotacion.normalized);
     }
 
     void Update()
@@ -34,7 +35,9 @@ public class Door : MonoBehaviour
         if (rotando)
         {
             tiempo += Time.deltaTime;
+            // float t = Mathf.Clamp01(tiempo / duracion);
             float t = Mathf.Clamp01(tiempo / duracion);
+            t = Mathf.SmoothStep(0f, 1f, t);
 
             transform.rotation = Quaternion.Slerp(rotacionInicial, rotacionObjetivo, t);
 
@@ -47,22 +50,11 @@ public class Door : MonoBehaviour
 
     public void Interact()
     {
-        if (rotando) return; // Evitar iniciar una nueva rotacion mientras se esta rotando
-
-        tiempo = 0f;
         rotacionInicial = transform.rotation;
-
-        // Alternar estado
-        if (abierta)
-        {
-            rotacionObjetivo = rotacionCerrada;
-        }
-        else
-        {
-            rotacionObjetivo = rotacionAbierta;
-        }
+        rotacionObjetivo = abierta ? rotacionCerrada : rotacionAbierta;
 
         abierta = !abierta;
+        tiempo = 0f;
         rotando = true;
     }
 }

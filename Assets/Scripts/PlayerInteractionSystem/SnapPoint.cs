@@ -1,8 +1,10 @@
 using UnityEngine;
 
+[RequireComponent(typeof(MeshRenderer))]
 public class SnapPoint : MonoBehaviour
 {
     public Transform snapTransform; // punto exacto donde se coloca
+    [SerializeField] private MeshRenderer meshRenderer;
     public bool isOccupied = false;
 
     public void SnapObject(GameObject obj)
@@ -21,5 +23,12 @@ public class SnapPoint : MonoBehaviour
         }
 
         isOccupied = true;
+        // meshRenderer.enabled = false;
+    }
+
+    public void Release()
+    {
+        isOccupied = false;
+        // meshRenderer.enabled = true;
     }
 }
